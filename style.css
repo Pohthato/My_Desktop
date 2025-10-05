@@ -74,6 +74,8 @@ h1{
     height: 90vh; 
     max-width: 98vw;
     margin: auto;
+    justify-content: center;  /* center horizontally */
+    align-items: center;      /* center vertically */
 }
 
 .widget{
